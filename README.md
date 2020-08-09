@@ -3,3 +3,6 @@ TicTacToe est un jeu qui se joue avec deux équipes. L’un joue avec le signe "
 
 # Développé par Keziix (moi même :p)
 Si vous reprenez le code, veuillez laisser le footer !
+
+# Dernière modification
+le 09/08/20
